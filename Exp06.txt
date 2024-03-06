@@ -1,3 +1,6 @@
 hello form git.
 I forked this repository for the experiment 06.
 and now i'm creating a file from git in this forked repo.
+
+this file is created in the forked repository and 
+i'm editing in this file from github.
